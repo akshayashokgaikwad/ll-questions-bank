@@ -1,0 +1,16 @@
+.pull-right {
+  position: absolute;
+  right: 150px;
+}
+
+.correctAnswer {
+  background-color: #ddd;
+}
+
+.yourCorrectAnswer {
+  background-color: #d4edda;
+}
+
+.yourIncorrectAnswer {
+  background-color: #f8d7da;
+}
